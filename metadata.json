@@ -1,0 +1,6 @@
+{
+  "name": "MyContacts",
+  "description": "Clean, mobile-first contact manager featuring favorites, alphabetical scroll index, category filtering, search, and import/export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
